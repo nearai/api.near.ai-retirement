@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.*
+.dev.vars
+
+# Wrangler/Cloudflare
+.wrangler/
+.wrangler/state/
+.wrangler/tmp/
+.wrangler/commands.json
+
+# Build/Cache
+.dist/
+dist/
+.cache/
+
+# IDE
+.vscode/
+.idea/

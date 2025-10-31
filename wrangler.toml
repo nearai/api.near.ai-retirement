@@ -1,0 +1,6 @@
+name = "api-near-ai-retirement"
+main = "src/index.js"
+compatibility_date = "2023-10-30"
+
+[build]
+  command = ""
